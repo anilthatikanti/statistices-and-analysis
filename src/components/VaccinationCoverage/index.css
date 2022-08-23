@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.barContainer {
+  background-color: #6c757d20;
+  background-size: cover;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px 0px;
+  display: flex;
+  flex-direction: column;
+}
+.para {
+  color: #6c757d;
+  margin: 10px 0px;
+}

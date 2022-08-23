@@ -1,0 +1,41 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+  color: #ffffff;
+}
+.head {
+  color: #000000;
+}
+.loadingContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #161625;
+  background-size: cover;
+  height: 100vh;
+}
+.container {
+  background-color: #161625;
+  height: 100vh;
+  background-size: cover;
+  padding: 20px 40px;
+  overflow: auto;
+}
+.websiteLogo {
+  height: 25px;
+  margin-right: 10px;
+}
+.iconContainer {
+  display: flex;
+  align-items: center;
+  font-size: 10px;
+}
+.mainHeading {
+  color: #2cc6c6;
+}
+.mainPagePara {
+  font-size: 20px;
+  font-family: 'roboto';
+  margin: 15px 0px;
+}

@@ -1,0 +1,6 @@
+/* Write your CSS here */
+.pieChartStyle {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
